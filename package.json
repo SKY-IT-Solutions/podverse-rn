@@ -11,7 +11,7 @@
   "scripts": {
     "dev": "react-native start",
     "dev:android": "react-native run-android",
-    "dev:ios": "react-native run-ios --simulator 'iPhone 15 Pro Max'",
+    "dev:ios": "react-native run-ios --simulator 'iPhone 16 Pro Max'",
     "dev:ios:iPhoneSE": "react-native run-ios --simulator 'iPhone SE (2nd generation)'",
     "dev:ios:iPod": "react-native run-ios --simulator 'iPod touch (7th generation)'",
     "dev:ios:device": "react-native run-ios --device",
@@ -155,7 +155,6 @@
     "@typescript-eslint/eslint-plugin-tslint": "^4.15.0",
     "@typescript-eslint/parser": "^4.15.0",
     "@welldone-software/why-did-you-render": "^7.0.1",
-    "dotenv": "8.2.0",
     "eslint": "^7.19.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.22.1",
